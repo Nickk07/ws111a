@@ -1,4 +1,6 @@
-This Blog Web were made from references below :
+This Blog Web were made using Django Framework
+
+References:
 
 [ProgrammingWithMosh](https://www.youtube.com/@programmingwithmosh)
 
